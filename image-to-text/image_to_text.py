@@ -1,3 +1,8 @@
+'''
+Title: Image to text
+Description: Converts an image into text (EN) using OCR
+Author: Luis Ocampo
+'''
 import os
 from PIL import Image
 import pytesseract
